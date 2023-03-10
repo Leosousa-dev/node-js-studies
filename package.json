@@ -1,0 +1,16 @@
+{
+  "name": "codematchAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
